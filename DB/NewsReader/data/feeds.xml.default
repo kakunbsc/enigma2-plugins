@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<feeds>
+	<feed>
+		<name>Ferrari Support</name>
+		<url>http://www.xxxxxx</url>
+	</feed>
+	<feed>
+		<name>Ferrari Download</name>
+		<url>http://www.xxxxx</url>
+	</feed>
+	
+</feeds>
